@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>My Website</title>
+    <link rel="stylesheet" href="style.css" />
+
+    <link rel="preconnect" href="https://fonts.gstatic.com" />
+    <link href="https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@100;200;300;400;500;600;700&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g==" crossorigin="anonymous" referrerpolicy="no-referrer"
+    />
+    <meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;">
+</head>
+
+<body>
+    <div id="preloader" onload="preload.toggle()"></div>
+    <!--===== HEADER =====-->
+    <header class="home" id="home">
+        <nav class="navigation navbar">
+            <div><img class="logo" src="img/logo.png" /></div>
+            <div class="hum">
+                <div class="line"></div>
+                <div class="line"></div>
+                <div class="line"></div>
+            </div>
+            <div class="">
+                <ul class="menu">
+                    <li><a href="#home" class="menu-btn">Home</a></li>
+                    <li><a href="#about" class="menu-btn">About Me</a></li>
+                    <li><a href="#skills" class="menu-btn">Skills</a></li>
+                    <li><a href="#services" class="menu-btn">Services</a></li>
+                    <li><a href="#contact" class="menu-btn">Contact Me</a></li>
+
+            </div>
+        </nav>
+        <div class="content">
+            <h3>Hello, my name is</h3>
+            <h2><span>Mohammed Alsayani</span></h2>
+            <h3>I'am a <span>Programmer</span></h3>
+            <div class="social">
+                <a href="#"><i class="fa-brands fa-facebook-f"></i></a>
+                <a href="#"><i class="fa-brands fa-instagram"></i></a>
+                <a href="#"><i class="fa-brands fa-twitter"></i></a>
+            </div>
+        </div>
+    </header>
+
+    <!--===== ABOUT =====-->
+    <section class="about" id="about">
+        <main class="main">
+            <img src="img/about.png" />
+            <div class="about-text">
+                <h2><span>About Me</span></h2>
+                <p>
+                    I am a Programmer and in the future I will be a front-end web developer. I will be able to provide clean code and pixel perfect design. I also make the website more & more interactive with web animations.I can provide clean code and pixel perfect design.
+                    I will be able to make the website more & more interactive with web animations.A responsive design makes your website accessible to all users, regardless of their device.
+                </p>
+            </div>
+        </main>
+    </section>
+
+    <!--===== SKILLS =====-->
+    <section class="skills" id="skills">
+        <h2><span>My Skills</span></h2>
+        <div class="contain">
+            <div class="max-width">
+                <div class="data">
+                    <div class="names">
+                        <i class="fa-brands fa-html5 icon"></i>
+                        <span>HTML5</span>
+                    </div>
+                    <div class="bar Html"></div>
+                    <div><span>95%</span></div>
+                </div>
+
+                <div class="data">
+                    <div class="names">
+                        <i class="fa-brands fa-css3-alt icon"></i>
+                        <span>CSS3</span>
+                    </div>
+                    <div class="bar css"></div>
+                    <div><span>85%</span></div>
+                </div>
+
+                <div class="data">
+                    <div class="names">
+                        <i class="fa-brands fa-js icon"></i>
+                        <span>JAVASCRIPT</span>
+                    </div>
+                    <div class="bar js"></div>
+                    <div><span>65%</span></div>
+                </div>
+
+                <div class="data">
+                    <div class="names">
+                        <i class="fa-solid fa-c icon"></i>
+                        <span>C#/C++</span>
+                    </div>
+                    <div class="bar c"></div>
+                    <div>
+                        <span>85%</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!--===== SERVICES =====-->
+    <section class="service" id="services">
+        <div>
+            <h2><span>Our Services</span></h2>
+            <div class="box">
+                <div class="card">
+                    <i class="fa-solid fa-code"></i>
+                    <h5><span>Coding</span></h5>
+                    <div class="pra">
+                        <p>
+                            Font Awesome is the internet's icon library and toolkit used by millions of designers, developers, and content creators.
+                        </p>
+                        <button>Read More</button>
+                    </div>
+                </div>
+
+                <div class="card">
+                    <i class="fa-brands fa-python"></i>
+                    <h5><span>Python</span></h5>
+                    <div class="pra">
+                        <p>
+                            Font Awesome is the internet's icon library and toolkit used by millions of designers, developers, and content creators.
+                        </p>
+                        <button>Read More</button>
+                    </div>
+                </div>
+
+                <div class="card">
+                    <i class="fa-brands fa-android"></i>
+
+                    <h5><span>App Development</span></h5>
+                    <div class="pra">
+                        <p>
+                            Font Awesome is the internet's icon library and toolkit used by millions of designers, developers, and content creators.
+                        </p>
+                        <button>Read More</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!--===== CONTACT =====-->
+    <section class="contact" id="contact">
+        <h2><span>Contact</span></h2>
+        <div class="container">
+            <form>
+                <input type="text" placeholder="Name" class="input" />
+                <input type="mail" placeholder="Email" class="input" />
+                <textarea cols="0" rows="10" placeholder="The Subject" class="input"></textarea>
+                <button>Submit</button>
+            </form>
+        </div>
+    </section>
+
+    <!--===== FOOTER =====-->
+    <footer>
+        <h2><span>Mohammed Alsayani</span></h2>
+        <p>&#169; 2022 copyright all right reserved</p>
+    </footer>
+    <script src="script.js"></script>
+    <script src="/js/jquery-1.11.1.min.js"></script>
+    <script>
+        const hum = document.querySelector("hum");
+        const menu = document.querySelector("menu");
+        const links = document.querySelectorAll(".menu li");
+        hum.addEventListener("click", () => {
+            menu.classList.toggle(".navbar .menu.active ");
+
+        });
+    </script>
+    <!-- <script>
+        const toggle = document.querySelector(".toggle");
+        const navbar = document.querySelector(".navigation");
+        const menu = document.querySelector(".menu-btn");
+        let flag = false;
+        toggle.addEventListener("click", function() {
+
+            if (flag) {
+                menu.classList.add("menu-btn");
+                toggle.querySelector("a").innerHTML = "<i class='fas fa-bars'></i>";
+            } else {
+                menu.classList.remove("menu-btn");
+
+                toggle.querySelector("a").innerHTML = "<i class='fas fa-times'></i>";
+                flag = true;
+            }
+
+        });
+        //var loader = document.getElementById("preloader");
+
+        // window.addEventListener("loade", function () {
+        //  loader.toggle();
+
+        var preload = new loader({
+            root: '#preloader'
+        });
+        // })
+    </script>
+  -->
+</body>
+
+</html>
