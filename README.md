@@ -11,8 +11,8 @@ Welcome to my GitHub profile! I am a passionate Flutter developer with a strong 
 ## 🚀 About Me
 
 - 🎓 **Education:** Bachelor’s degree in Computer Science and Information.
-- 👨‍💻 **Professional Experience:** Aspiring to secure a position in IT Support or a related field.
-- 💻 **Programming Skills:** Flutter, Dart, Java, Python, JavaScript.
+- 👨‍💻 **Professional Experience:** Aspiring to secure a position in Software Development or a related field.
+- 💻 **Programming Skills:** Flutter, Dart, Java, Python, JavaScript, other
 - 🔍 **Interests:** AI, Cybersecurity, Mobile Development.
 
 ## 🛠️ Skills
