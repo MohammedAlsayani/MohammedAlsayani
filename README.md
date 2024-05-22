@@ -10,9 +10,9 @@ Welcome to my GitHub profile! I am a passionate Flutter developer with a strong 
 
 ## 🚀 About Me
 
-- 🎓 **Education:** Bachelor’s degree in Computer Science and Information.
-- 👨‍💻 **Professional Experience:** Aspiring to secure a position in Software Development or a related field.
-- 💻 **Programming Skills:** Flutter, Dart, Java, Python, JavaScript, other
+- 🎓 **Education:** Bachelor's degree in Computer Science and Information Technology, Ibb University, Yemen, 2024, Grade: Very Good.
+- 👨‍💻 **Professional Experience:** Applications Developer at Amrtm Company for Business Sector Services.
+- 💻 **Programming Skills:** Flutter, Dart, Java, Python, JavaScript, PHP, C#, C++.
 - 🔍 **Interests:** AI, Cybersecurity, Mobile Development.
 
 ## 🛠️ Skills
@@ -21,6 +21,7 @@ Welcome to my GitHub profile! I am a passionate Flutter developer with a strong 
   - Flutter, Dart
   - Java, Python
   - JavaScript, HTML, CSS
+  - PHP, C#, C++
 
 - **Tools & Technologies:** 
   - Git, GitHub, GitLab
@@ -62,7 +63,6 @@ Welcome to my GitHub profile! I am a passionate Flutter developer with a strong 
 ## 🌐 Connect with Me
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/mohammed-alsayani)
-
 - [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eng.mohammed.alsayani@gmail.com)
 
 ## 📧 Contact
@@ -71,7 +71,10 @@ For any inquiries or collaborations, feel free to reach out to me at:
 - **Email:** eng.mohammed.alsayani@gmail.com
 
 
+## 📝 Certifications
 
+- **Google IT Support Professional Certificate** by Google Career Certificates on Coursera.org
+- **English Language Certificates** from YALY Institute Sana'a Yemen
 
 Thank you for visiting my profile! I am always open to feedback and collaboration. Let's build something amazing together!
 
