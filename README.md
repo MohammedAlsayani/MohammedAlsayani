@@ -40,7 +40,7 @@ Welcome to my GitHub profile! I am a passionate Flutter developer with a strong 
    - **Description:** Ashghal-App is a powerful Flutter-based job seeker application designed to simplify and enhance the job search experience for users. With Ashghal, job seekers can effortlessly discover a diverse range of employment opportunities across various industries and companies.
    - **Technologies:** Flutter, Dart, Firebase, RESTful APIs
    - **Status:** Completed
-   - **Link:** https://play.google.com/store/apps/details?id=Ashghal-app
+   - **Link:** [here](https://play.google.com/store/apps/details?id=Ashghal-app)
 
 ### 2. [Universities App](https://github.com/mohammedalsayani/Universities-App)
    - **Description:** The Universities App connects students with universities worldwide, helping them choose and apply to institutions that best suit their educational and career goals.
@@ -51,13 +51,13 @@ Welcome to my GitHub profile! I am a passionate Flutter developer with a strong 
    - **Description:** Luxury Shop Market is a high-end shopping app similar to SHEIN, providing users with a seamless shopping experience for luxury items from various brands.
    - **Technologies:** Flutter, Dart, Firebase, SQLite
    - **Status:** Completed
-   - **Link:** https://play.google.com/store/apps/details?id=com.oq.store
+   - **Link:** [here](https://play.google.com/store/apps/details?id=com.oq.store)
 
 ### 4. [Blood Donation App](https://github.com/mohammedalsayani/Blood-Donation-App)
    - **Description:** The Blood Donation App is designed to help users find blood donors quickly and efficiently. The app connects those in need of blood with potential donors, enhancing the chances of timely donations.
    - **Technologies:** Flutter, Dart, Firebase, RESTful APIs
    - **Status:** In Progress
-   - **Link:** https://play.google.com/store/apps/details?id=com.yesslambloodbank.blood_bank_app
+   - **Link:** [here](https://play.google.com/store/apps/details?id=com.yesslambloodbank.blood_bank_app)
 
 ## 🌐 Connect with Me
 
