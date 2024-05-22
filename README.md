@@ -1,3 +1,4 @@
+
 # Hi there, I'm Mohammed Alsayani 👋
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
@@ -31,53 +32,46 @@ Welcome to my GitHub profile! I am a passionate Flutter developer with a strong 
   - Android Studio, Xcode
   - VS Code, IntelliJ IDEA
 
-## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammedalsayani&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedalsayani&layout=compact&theme=radical)
 
 ## 📱 Projects
 
-### 1. [Project Name](https://github.com/mohammedalsayani/projectname)
-   - **Description:** Brief description of what the project does and its key features.
-   - **Technologies:** Flutter, Dart, Firebase, etc.
-   - **Status:** Completed / In Progress
-   - **Demo:** [Link to demo or screenshots]
+### 1. [Ashghal-App](https://github.com/mohammedalsayani/Ashghal-App)
+   - **Description:** Ashghal-App is a powerful Flutter-based job seeker application designed to simplify and enhance the job search experience for users. With Ashghal, job seekers can effortlessly discover a diverse range of employment opportunities across various industries and companies.
+   - **Technologies:** Flutter, Dart, Firebase, RESTful APIs
+   - **Status:** Completed
+   - **Demo:** [https://play.google.com/store/apps/details?id=Ashghal-app]
 
-### 2. [Project Name](https://github.com/mohammedalsayani/projectname)
-   - **Description:** Brief description of what the project does and its key features.
-   - **Technologies:** Flutter, Dart, SQLite, etc.
-   - **Status:** Completed / In Progress
-   - **Demo:** [Link to demo or screenshots]
+### 2. [Universities App](https://github.com/mohammedalsayani/Universities-App)
+   - **Description:** The Universities App connects students with universities worldwide, helping them choose and apply to institutions that best suit their educational and career goals.
+   - **Technologies:** Flutter, Dart, Firebase, MVC, RESTful APIs
+   - **Status:** In Progress
+ 
+### 3. [Luxury Shop Market](https://github.com/mohammedalsayani/Luxury-Shop-Market)
+   - **Description:** Luxury Shop Market is a high-end shopping app similar to SHEIN, providing users with a seamless shopping experience for luxury items from various brands.
+   - **Technologies:** Flutter, Dart, Firebase, SQLite
+   - **Status:** Completed
+   - **Demo:** [https://play.google.com/store/apps/details?id=com.oq.store]
 
-### 3. [Project Name](https://github.com/mohammedalsayani/projectname)
-   - **Description:** Brief description of what the project does and its key features.
-   - **Technologies:** Flutter, Dart, RESTful APIs, etc.
-   - **Status:** Completed / In Progress
-   - **Demo:** [Link to demo or screenshots]
+### 4. [Blood Donation App](https://github.com/mohammedalsayani/Blood-Donation-App)
+   - **Description:** The Blood Donation App is designed to help users find blood donors quickly and efficiently. The app connects those in need of blood with potential donors, enhancing the chances of timely donations.
+   - **Technologies:** Flutter, Dart, Firebase, RESTful APIs
+   - **Status:** In Progress
+   - **Demo:** [https://play.google.com/store/apps/details?id=com.yesslambloodbank.blood_bank_app]
 
 ## 🌐 Connect with Me
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-alsayani)
-- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/mohammed-alsayani)
+
 - [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eng.mohammed.alsayani@gmail.com)
 
 ## 📧 Contact
 
 For any inquiries or collaborations, feel free to reach out to me at:
 - **Email:** eng.mohammed.alsayani@gmail.com
-- **Phone:** +966 53 814 0802
 
-## 📝 Blog Posts
 
-- [Understanding State Management in Flutter](https://medium.com/@yourusername/understanding-state-management-in-flutter-abc123)
-- [Integrating Firebase with Your Flutter App](https://medium.com/@yourusername/integrating-firebase-with-your-flutter-app-abc123)
-- [Optimizing Flutter Performance](https://medium.com/@yourusername/optimizing-flutter-performance-abc123)
 
-## 📅 Open Source Contributions
-
-- [Contribution 1](https://github.com/yourusername/contribution1): Description of your contribution to the project.
-- [Contribution 2](https://github.com/yourusername/contribution2): Description of your contribution to the project.
 
 Thank you for visiting my profile! I am always open to feedback and collaboration. Let's build something amazing together!
+
