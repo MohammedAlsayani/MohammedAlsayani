@@ -52,13 +52,7 @@ Welcome to my GitHub profile! I am a passionate Flutter developer with a strong 
    - **Description:** Luxury Shop Market is a high-end shopping app similar to SHEIN, providing users with a seamless shopping experience for luxury items from various brands.
    - **Technologies:** Flutter, Dart, Firebase, SQLite
    - **Status:** Completed
-   - **Link:** [here](https://play.google.com/store/apps/details?id=com.oq.store)
 
-### 4. [Blood Donation App](https://github.com/mohammedalsayani/Blood-Donation-App)
-   - **Description:** The Blood Donation App is designed to help users find blood donors quickly and efficiently. The app connects those in need of blood with potential donors, enhancing the chances of timely donations.
-   - **Technologies:** Flutter, Dart, Firebase, RESTful APIs
-   - **Status:** Completed
-   - **Link:** [here](https://play.google.com/store/apps/details?id=com.yesslambloodbank.blood_bank_app)
 
 ## 🌐 Connect with Me
 
