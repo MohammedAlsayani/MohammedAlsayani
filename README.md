@@ -41,7 +41,7 @@ Welcome to my GitHub profile! I am a passionate Flutter developer with a strong 
    - **Description:** Ashghal-App is a powerful Flutter-based job seeker application designed to simplify and enhance the job search experience for users. With Ashghal, job seekers can effortlessly discover a diverse range of employment opportunities across various industries and companies.
    - **Technologies:** Flutter, Dart, Firebase, RESTful APIs
    - **Status:** Completed
-   - **Link:** [here](https://play.google.com/store/apps/details?id=Ashghal-app)
+
 
 ### 2. [Universities App](https://github.com/mohammedalsayani/Universities-App)
    - **Description:** The Universities App connects students with universities worldwide, helping them choose and apply to institutions that best suit their educational and career goals.
