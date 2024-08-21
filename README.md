@@ -1,7 +1,3 @@
-Here's how you can integrate **TinderFood** and **Buzz** projects into your profile:
-
----
-
 # Hi there, I'm Mohammed Alsayani 👋
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
