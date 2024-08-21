@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I am a passionate Flutter developer with a strong 
 
 ## 🚀 About Me
 
-- 🎓 **Education:** Bachelor's degree in Computer Science and Information Technology, Ibb University, Yemen, 2024, Grade: Very Good.
+- 🎓 **Education:** Bachelor's degree in Computer Science and Information Technology, Ibb University, Yemen, 2023, Grade: Very Good.
 - 👨‍💻 **Professional Experience:** Applications Developer at Amrtm Company for Business Sector Services.
 - 💻 **Programming Skills:** Flutter, Dart, Java, Python, JavaScript, PHP, C#, C++.
 - 🔍 **Interests:** AI, Cybersecurity, Mobile Development.
