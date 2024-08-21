@@ -1,3 +1,6 @@
+Here's how you can integrate **TinderFood** and **Buzz** projects into your profile:
+
+---
 
 # Hi there, I'm Mohammed Alsayani 👋
 
@@ -33,27 +36,32 @@ Welcome to my GitHub profile! I am a passionate Flutter developer with a strong 
   - Android Studio, Xcode
   - VS Code, IntelliJ IDEA
 
-
-
 ## 📱 Projects
 
-### 1. [Ashghal-App](https://github.com/mohammedalsayani/Ashghal-App)
-   - **Description:** Ashghal-App is a powerful Flutter-based job seeker application designed to simplify and enhance the job search experience for users. With Ashghal, job seekers can effortlessly discover a diverse range of employment opportunities across various industries and companies.
+### 1. [Buzz](https://www.figma.com/proto/DfsPKpKiJH9r8vfqGN9H9b/Activities-App?page-id=0%3A1&node-id=183-1457&viewport=211%2C77%2C0.05&t=CqMg6J9Tw0wMZTOL-1&scaling=scale-down)
+   - **Description:** Buzz is a social media app similar to Instagram, TikTok, and Snapchat, featuring real-time interactions, user-generated content, and multimedia sharing.
+   - **Technologies:** Flutter, Dart, GetX, Firebase, RESTful APIs
+   - **Status:** In Progress
+
+### 2. [TinderFood – App Delivery](https://www.figma.com/design/MQlpCjy6gXxON67vfM2L1B/TinderFood?node-id=0%3A1&t=9PFXuKQcK3kvnj7y-1)
+   - **Description:** TinderFood is a food delivery app with a swipe-based interface inspired by Tinder, offering personalized food recommendations and real-time order tracking.
+   - **Technologies:** Flutter, Dart, GetX, Firebase, Google Maps API
+   - **Status:** Completed
+
+### 3. [Ashghal-App](https://github.com/mohammedalsayani/Ashghal-App)
+   - **Description:** Ashghal-App is a powerful Flutter-based job seeker application designed to simplify and enhance the job search experience for users.
    - **Technologies:** Flutter, Dart, Firebase, RESTful APIs
    - **Status:** Completed
 
-
-### 2. [Universities App](https://github.com/mohammedalsayani/Universities-App)
+### 4. [Universities App](https://github.com/mohammedalsayani/Universities-App)
    - **Description:** The Universities App connects students with universities worldwide, helping them choose and apply to institutions that best suit their educational and career goals.
    - **Technologies:** Flutter, Dart, Firebase, MVC, RESTful APIs
    - **Status:** In Progress
- 
-### 3. [Luxury Shop Market](https://github.com/mohammedalsayani/Luxury-Shop-Market)
+
+### 5. [Luxury Shop Market](https://github.com/mohammedalsayani/Luxury-Shop-Market)
    - **Description:** Luxury Shop Market is a high-end shopping app similar to SHEIN, providing users with a seamless shopping experience for luxury items from various brands.
    - **Technologies:** Flutter, Dart, Firebase, SQLite
    - **Status:** Completed
- 
-
 
 ## 🌐 Connect with Me
 
@@ -65,11 +73,9 @@ Welcome to my GitHub profile! I am a passionate Flutter developer with a strong 
 For any inquiries or collaborations, feel free to reach out to me at:
 - **Email:** eng.mohammed.alsayani@gmail.com
 
-
 ## 📝 Certifications
 
 - **Google IT Support Professional Certificate** by Google Career Certificates on Coursera.org
 - **English Language Certificates** from YALY Institute Sana'a Yemen
 
 Thank you for visiting my profile! I am always open to feedback and collaboration. Let's build something amazing together!
-
