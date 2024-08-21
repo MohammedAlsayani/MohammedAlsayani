@@ -34,10 +34,10 @@ Welcome to my GitHub profile! I am a passionate Flutter developer with a strong 
 
 ## 📱 Projects
 
-### 1. [Buzz](https://github.com/mohammedalsayani/Buzz)
+### 1. [Buzz - Social Media App](https://github.com/mohammedalsayani/Buzz)
    - **Description:** Buzz is a social media app similar to Instagram, TikTok, and Snapchat, featuring real-time interactions, user-generated content, and multimedia sharing.
    - **Technologies:** Flutter, Dart, GetX, Firebase, RESTful APIs
-   - **Status:** Completed
+   - **Status:** In Progress
 
 ### 2. [TinderFood – App Delivery](https://github.com/mohammedalsayani/TinderFood)
    - **Description:** TinderFood is a food delivery app with a swipe-based interface inspired by Tinder, offering personalized food recommendations and real-time order tracking.
