@@ -14,24 +14,6 @@ Welcome to my GitHub profile! I am a passionate Flutter developer with a strong 
 - 💻 **Programming Skills:** Flutter, Dart, Java, Python, JavaScript, PHP, C#, C++.
 - 🔍 **Interests:** AI, Cybersecurity, Mobile Development.
 
-## 🛠️ Skills
-
-- **Languages & Frameworks:** 
-  - Flutter, Dart
-  - Java, Python
-  - JavaScript, HTML, CSS
-  - PHP, C#, C++
-
-- **Tools & Technologies:** 
-  - Git, GitHub, GitLab
-  - Firebase, SQLite
-  - RESTful APIs, GraphQL
-  - Agile Methodologies
-
-- **Development Platforms:** 
-  - Android Studio, Xcode
-  - VS Code, IntelliJ IDEA
-
 ## 📱 Projects
 
 ### 1. [Buzz - Social Media App](https://github.com/mohammedalsayani/Buzz)
