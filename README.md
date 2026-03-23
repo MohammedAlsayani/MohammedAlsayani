@@ -1,61 +1,59 @@
-# Hi there, I'm Mohammed Alsayani 👋
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=02569B&width=900&height=80&lines=Hi+there%2C+I'm+Mohammed+Alsayani+%F0%9F%91%8B;Flutter+Developer+%7C+10%2B+Prod+Apps;Always+building+something+amazing!" alt="Typing SVG" />
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 
-Welcome to my GitHub profile! I am a passionate Flutter developer with a strong background in software development and a keen interest in AI and cybersecurity. I enjoy creating beautiful and functional mobile applications for both Android and iOS platforms.
+</div>
 
-## 🚀 About Me
+Flutter dev who turned `setState(() => life)` into **10+ production apps** across both stores — some with **10,000+ real users**. Always open to the next exciting challenge — hire me before someone else does!
 
-- 🎓 **Education:** Bachelor's degree in Computer Science and Information Technology, Ibb University, Yemen, 2023, Grade: Very Good.
-- 👨‍💻 **Professional Experience:** Applications Developer at Amrtm Company for Business Sector Services.
-- 💻 **Programming Skills:** Flutter, Dart, Java, Python, JavaScript, PHP, C#, C++.
-- 🔍 **Interests:** AI, Cybersecurity, Mobile Development.
+---
 
-## 📱 Projects
+## About Me
+```yaml
+Name:         Mohammed Alsayani
+Location:     Riyadh, Saudi Arabia
+Education:    B.Sc. Computer Science & IT — Ibb University, Yemen
+Status:       Open to exciting opportunities
+Languages:    Dart, Kotlin, Swift, Python, JavaScript, PHP, C#, C++
+Frameworks:   Flutter, Laravel, Node.js, Android Native (Kotlin), iOS Native (Swift)
+State Mgmt:   Bloc/Cubit, Riverpod, GetX, Provider
+Backend:      Firebase (Auth, Firestore, Realtime DB, FCM, Analytics), AWS S3, REST APIs
+Databases:    Firestore, Realtime Database, SQLite, Hive
+Tools:        Git, GitHub, VS Code, Android Studio, Xcode, Postman, Figma
+Architecture: Clean Architecture, MVVM, MVC
+```
 
-### 1. [Buzz - Social Media App](https://github.com/mohammedalsayani/Buzz)
-   - **Description:** Buzz is a social media app similar to Instagram, TikTok, and Snapchat, featuring real-time interactions, user-generated content, and multimedia sharing.
-   - **Technologies:** Flutter, Dart, GetX, Firebase, RESTful APIs
-   - **Status:** In Progress
+---
 
-### 2. [TinderFood – App Delivery](https://github.com/mohammedalsayani/TinderFood)
-   - **Description:** TinderFood is a food delivery app with a swipe-based interface inspired by Tinder, offering personalized food recommendations and real-time order tracking.
-   - **Technologies:** Flutter, Dart, GetX, Firebase, Google Maps API
-   - **Status:** Completed
+## By the Numbers
 
-### 3. [Ashghal-App](https://github.com/mohammedalsayani/Ashghal-App)
-   - **Description:** Ashghal-App is a powerful Flutter-based job seeker application designed to simplify and enhance the job search experience for users.
-   - **Technologies:** Flutter, Dart, Firebase, RESTful APIs
-   - **Status:** Completed
+| Production Apps | Users Reached | Stores Shipped |
+|:-:|:-:|:-:|
+| 10+ | 10,000+ | App Store & Google Play |
 
-### 4. [Universities App](https://github.com/mohammedalsayani/Universities-App)
-   - **Description:** The Universities App connects students with universities worldwide, helping them choose and apply to institutions that best suit their educational and career goals.
-   - **Technologies:** Flutter, Dart, Firebase, MVC, RESTful APIs
-   - **Status:** In Progress
+---
 
-### 5. [Luxury Shop Market](https://github.com/mohammedalsayani/Luxury-Shop-Market)
-   - **Description:** Luxury Shop Market is a high-end shopping app similar to SHEIN, providing users with a seamless shopping experience for luxury items from various brands.
-   - **Technologies:** Flutter, Dart, Firebase, SQLite
-   - **Status:** Completed
+## Domains
 
-## 🌐 Connect with Me
+`Transportation` · `E-commerce` · `Food Delivery` · `Social Media` · `Legal Tech` · `Fintech` · `Healthcare` · `Real-time Apps`
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-alsayani)
-- [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eng.mohammed.alsayani@gmail.com)
+---
 
-## 📧 Contact
+## Connect
 
-For any inquiries or collaborations, feel free to reach out to me at:
-- **Email:** eng.mohammed.alsayani@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-alsayani)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mo7ammedalsayani@gmail.com)
 
-## 📝 Certifications
+---
 
-- **Google IT Support Professional Certificate** by Google Career Certificates on Coursera.org
-- **English Language Certificates** from YALY Institute Sana'a Yemen
-
-Thank you for visiting my profile! I am always open to feedback and collaboration. Let's build something amazing together!
-
-## LAST MODIFIED DATE : 2024 Aug 21
+> Let's build something amazing together!
