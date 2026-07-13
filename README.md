@@ -11,7 +11,7 @@
 </div>
 
 Mobile Application developer with 4+ years building production-grade cross-platform apps for Android & iOS —
-10+ shipped apps, 10,000+ real users. Specialising in **Clean Architecture**, **BLoC**, and **real-time systems**.
+10+ shipped apps, 100,000+ real users. Specialising in **Clean Architecture**, **BLoC**, and **real-time systems**.
 
 ---
 
@@ -37,7 +37,7 @@ Languages:    Arabic (Native) · English (Advanced)
 
 | Production Apps | Users Reached | Stores Shipped | CI/CD Pipelines |
 |:-:|:-:|:-:|:-:|
-| 10+ | 10,000+ | App Store & Google Play | GitHub Actions · Fastlane · Codemagic |
+| 10+ | 100,000+ | App Store & Google Play | GitHub Actions · Fastlane · Codemagic |
 
 ---
 
